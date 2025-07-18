@@ -9,8 +9,7 @@
 
 
 你可以前往此地查看最新版本的README
-https://himservice-docs.himserver.com/#Gemini-Pool/intro
-
+https://himservice-docs.himserver.com/#HimClient/intro
 ## 簡介
 
 HimClient 專案為一個基於Pterodactyl面板的伺服器儀表板專案，旨在為 Pterodactyl 面板延伸出一個供使用者的用戶介面。此專案允許使用者使用 Discord 帳戶登入系統並創建面板帳戶，使使用者可透過 Discord 登入並管理其 Pterodactyl 伺服器資源。儀表板提供多項功能，包括伺服器狀態監控、資源管理、商店系統、用戶方案管理及管理員後台功能，旨在簡化伺服器託管服務的管理與使用流程。
