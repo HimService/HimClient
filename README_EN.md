@@ -9,7 +9,7 @@
 
 
 You can go here to view the latest version of the README
-https://himservice-docs.himserver.com/#Gemini-Pool/intro
+https://himservice-docs.himserver.com/#HimClient/intro
 
 ## Introduction
 
